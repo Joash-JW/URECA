@@ -1,0 +1,10 @@
+# ignore content of these folders
+MURA-v1.1/
+.ipynb_checkpoints/
+
+
+# Packages #
+*.csv
+*.h5
+*.pdf
+*.pptx
