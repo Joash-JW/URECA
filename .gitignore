@@ -6,5 +6,11 @@ MURA-v1.1/
 # Packages #
 *.csv
 *.h5
-*.pdf
 *.pptx
+*.html
+*.jpeg
+*.docx
+
+# files
+URECA_Poster.pdf
+Jie Wei - URECA Research Paper (Turnitin).pdf
