@@ -1,6 +1,7 @@
 # URECA - Deep Transfer Learning For Abnormality Detection
+[![Last Commit](https://img.shields.io/github/last-commit/joash-jw/URECA)]() [![License: MIT](https://img.shields.io/github/license/joash-jw/URECA)](https://opensource.org/licenses/MIT)
 
-URECA stands for Undergraduate Research Experience on CAmpus (URECA). It is a 1 year research programme at Nanyang Technological University. I am honoured that my paper was selected to be published in the [4th International Conference on Crowd Science and Engineering (ICCSE 2019)](http://iccse2019.crowdscience.org/).
+URECA stands for Undergraduate Research Experience on CAmpus (URECA). It is a 1 year research programme at Nanyang Technological University. I am honoured that my paper was selected to be published in the [4th International Conference on Crowd Science and Engineering (ICCSE 2019)](http://iccse2019.crowdscience.org/). The link to the published paper can be found [here](https://dl.acm.org/doi/abs/10.1145/3371238.3371274).
 
 ## Data Sources:
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
